@@ -13,7 +13,7 @@ public class RailPlugin : ModuleRules
 		PublicDependencyModuleNames.AddRange(
 			new string[]
 			{
-				"Core",
+				"Core", "CoreUObject", "DeveloperSettings", "Engine"
 			});
 		
 		PrivateDependencyModuleNames.AddRange(

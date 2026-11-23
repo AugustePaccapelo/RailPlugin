@@ -19,6 +19,11 @@
 			"Name": "RailPlugin",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "RailPluginEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
 		}
 	]
 }

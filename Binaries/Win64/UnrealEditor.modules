@@ -2,6 +2,7 @@
 	"BuildId": "55116800",
 	"Modules": 
 	{
-		"RailPlugin": "UnrealEditor-RailPlugin.dll"
+		"RailPlugin": "UnrealEditor-RailPlugin.dll",
+		"RailPluginEditor": "UnrealEditor-RailPluginEditor.dll"
 	}
 }
